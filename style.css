@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+}
+h2 {
+    font-size: 28px;
+}
+h1 {
+    font-size: 36px;
+}
+span {
+    color: aqua;
+}
+img {
+    width: 129px; 
+    height: 165px;
+} 
